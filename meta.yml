@@ -1,0 +1,7 @@
+name: base_misc_socat_nodejs
+title: 基础镜像 Misc Socat NodeJs 12
+desc: 基础镜像 Misc Socat NodeJs 12
+tags:
+  - misc
+  - socat
+  - nodejs
